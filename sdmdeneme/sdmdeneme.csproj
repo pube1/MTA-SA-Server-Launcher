@@ -94,7 +94,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="8017827843cf4433f0235530c4d86eb4_c5_100x100.ico" />
-    <Content Include="8ed5ce5c2852ea2f4ea8869c0821be6a.ico" />
     <None Include="Resources\zyro-image_1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
